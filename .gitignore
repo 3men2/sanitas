@@ -21,3 +21,4 @@
 .idea/encodings.xml
 .idea/compiler.xml
 .idea/.name
+target/*
